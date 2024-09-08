@@ -1,2 +1,2 @@
-#Learning GIT and GITHUB by Tharun
-This is a first change.
+# Learning GIT and GITHUB by Tharun
+Hello I am  Sai Tharun!
